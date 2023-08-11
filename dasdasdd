@@ -1,0 +1,762 @@
+[33mcommit cd1a4b68bdf4d410c69591296824684dd7073720[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miku39c <37133978+Mikuof39@users.noreply.github.com>
+Date:   Fri Aug 11 15:41:10 2023 +0800
+
+    test
+
+[33mcommit 14b970f7280741518bc4a50d99cf43adf3909297[m
+Author: zbx1425 <zbx1425@outlook.com>
+Date:   Fri Jul 14 21:32:42 2023 +0800
+
+    Fix MacOS builds
+
+[33mcommit f37c45fd126417791f67a21a5864a086f100d120[m
+Author: Tom Wojciechowski <tomwojciechowski@asidik.com>
+Date:   Sat Feb 12 11:23:51 2022 +0000
+
+    separate arm from 'mac' in GHA matrix
+
+[33mcommit a52e6897fefe396c05edb9f1fbddfafd0a5af39a[m
+Author: Tom Wojciechowski <tomwojciechowski@asidik.com>
+Date:   Fri Feb 11 23:23:46 2022 +0000
+
+    m1 support
+
+[33mcommit 7d545c3e274c7039aa4a2527b1281e96d20726c6[m
+Author: Richard Kokstein <39089461+Trolobezka@users.noreply.github.com>
+Date:   Tue Jun 13 08:40:57 2023 +0200
+
+    doc: add missing import for Configuration class in README.md (#186)
+
+[33mcommit 6b836aa2f94b4d5c276bb986acfc37447fe7c81e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 19 21:59:21 2023 +0300
+
+    up: bump org.lwjgl:lwjgl-bom from 3.3.1 to 3.3.2 (#175)
+    
+    Bumps [org.lwjgl:lwjgl-bom](https://github.com/LWJGL/lwjgl3) from 3.3.1 to 3.3.2.
+    - [Release notes](https://github.com/LWJGL/lwjgl3/releases)
+    - [Commits](https://github.com/LWJGL/lwjgl3/compare/3.3.1...3.3.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.lwjgl:lwjgl-bom
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit e1737228e69581cde7be41c97963df925b2cbd87[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 19 21:58:53 2023 +0300
+
+    up: bump org.junit.jupiter:junit-jupiter-engine from 5.9.2 to 5.9.3 (#180)
+    
+    Bumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit5) from 5.9.2 to 5.9.3.
+    - [Release notes](https://github.com/junit-team/junit5/releases)
+    - [Commits](https://github.com/junit-team/junit5/compare/r5.9.2...r5.9.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.junit.jupiter:junit-jupiter-engine
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 297e69d5d47ee6cea6b4027023d36078bf26cfe2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 19 21:43:46 2023 +0300
+
+    up: bump com.badlogicgames.gdx:gdx-jnigen from 2.3.1 to 2.4.0 (#184)
+    
+    Bumps [com.badlogicgames.gdx:gdx-jnigen](https://github.com/libgdx/gdx-jnigen) from 2.3.1 to 2.4.0.
+    - [Release notes](https://github.com/libgdx/gdx-jnigen/releases)
+    - [Changelog](https://github.com/libgdx/gdx-jnigen/blob/master/CHANGES)
+    - [Commits](https://github.com/libgdx/gdx-jnigen/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.badlogicgames.gdx:gdx-jnigen
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit ed746f31684b551979f95266df2f0c6c9db1af20[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 19 21:43:16 2023 +0300
+
+    up: bump org.junit.jupiter:junit-jupiter-api from 5.9.2 to 5.9.3 (#179)
+    
+    Bumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit5) from 5.9.2 to 5.9.3.
+    - [Release notes](https://github.com/junit-team/junit5/releases)
+    - [Commits](https://github.com/junit-team/junit5/compare/r5.9.2...r5.9.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.junit.jupiter:junit-jupiter-api
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit bca843e51be471847e2a21347f28e2da7f598f7e[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Mar 29 21:13:27 2023 +0300
+
+    [Build] Remove submodule update
+
+[33mcommit bad058853ec34daaa9f0b98744b202a477bc6d76[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 14 09:49:21 2023 +0200
+
+    [Build] Bump org.junit.jupiter:junit-jupiter-api from 5.5.2 to 5.9.2 (#170)
+    
+    Bumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit5) from 5.5.2 to 5.9.2.
+    - [Release notes](https://github.com/junit-team/junit5/releases)
+    - [Commits](https://github.com/junit-team/junit5/compare/r5.5.2...r5.9.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.junit.jupiter:junit-jupiter-api
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit b528cdcf2fdd8e3af4800d0527785a82f6732265[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 14 09:48:06 2023 +0200
+
+    [Build] Bump org.junit.jupiter:junit-jupiter-engine from 5.5.2 to 5.9.2 (#169)
+    
+    Bumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit5) from 5.5.2 to 5.9.2.
+    - [Release notes](https://github.com/junit-team/junit5/releases)
+    - [Commits](https://github.com/junit-team/junit5/compare/r5.5.2...r5.9.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: org.junit.jupiter:junit-jupiter-engine
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit e4ee51527ad0a9a3336be1297780829a09ff87c5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 14 09:46:17 2023 +0200
+
+    [Build] Bump com.badlogicgames.gdx:gdx-jnigen from 2.0.1 to 2.3.1 (#168)
+    
+    Bumps [com.badlogicgames.gdx:gdx-jnigen](https://github.com/libgdx/gdx-jnigen) from 2.0.1 to 2.3.1.
+    - [Release notes](https://github.com/libgdx/gdx-jnigen/releases)
+    - [Changelog](https://github.com/libgdx/gdx-jnigen/blob/master/CHANGES)
+    - [Commits](https://github.com/libgdx/gdx-jnigen/compare/v2.0.1...2.3.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.badlogicgames.gdx:gdx-jnigen
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 05ba6f90eba88509c87f2948b9a91497c24fa339[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Mar 14 09:26:12 2023 +0200
+
+    [Build] Create .github/dependabot.yml
+
+[33mcommit 10bcc7dcb00fc562accf30eeccb89fd4985df232[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Mar 10 07:08:27 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 9ddf87574532cc5b0cf970dce1dba1da87d9704b[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Fri Mar 10 09:02:05 2023 +0200
+
+    [Build] Add binding hash sort
+
+[33mcommit 7b9bb505fc68c323302d77aef967f39aae0d8882[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Mar 10 06:43:39 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit f99f05260204a0a005176eed8e2b8ad376fa9a7a[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Fri Mar 10 08:34:48 2023 +0200
+
+    v1.86.10
+
+[33mcommit 9a69e8b7ba6b5ef7725b829209787bbd2dfcb323[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Mar 9 07:10:18 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 70442b64d5a0fdf9b4d6358e4c912b22558aee55[m
+Author: Bruno Pinto Jácome <49479327+brunopj1@users.noreply.github.com>
+Date:   Thu Mar 9 06:57:31 2023 +0000
+
+    [API] Adding missing ImNodes bindings (#167)
+    
+    * added missing ImNodes bindings
+    
+    * add missing binding and fix Style Vars in ImNodes
+
+[33mcommit fd7d2f77d49ed369bb867e52f743a59ee3fc7e64[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Mar 2 16:31:22 2023 +0200
+
+    v1.86.9
+
+[33mcommit 701333561272e1a7338a5ade78fa90623ae06d06[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Mar 2 09:55:09 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 4a5c587ffd8a45d1f172aedf104f74ebbcd3fee1[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Mar 2 11:44:23 2023 +0200
+
+    [API] Add ability to set inputBuffer in ImGuiTextFilter
+    
+    Useful to have a custom inputText field, but to filter using ImGuiTextFilter
+    
+    resolves #160
+
+[33mcommit 618f687f19f0af0d5b481293586ea42cf86271d0[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Mar 1 11:19:31 2023 +0200
+
+    v1.86.8
+
+[33mcommit be4c86e6544594e760adf84de0353dbf8abc1089[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Mar 1 09:11:18 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit bf92f04c2104f72219de6d2fd0bfa7f1dd50ffcd[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Mar 1 11:01:00 2023 +0200
+
+    [API] Fix `inputText` with resizable `ImString` crashes if the `ImGuiInputTextCallback` is null
+    
+    fixes #158
+
+[33mcommit e1789c80fa3832688e781e7c802f892a45cdc9d1[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Feb 28 17:16:53 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit d8f8f41a763b068e29d61d39527c0b2c562c8e64[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Feb 28 19:08:25 2023 +0200
+
+    [API] Make classes from `imgui.type` which are represent numbers to extend `Number` class
+    
+     - ImDouble
+     - ImFloat
+     - ImInt
+     - ImLong
+     - ImShort
+
+[33mcommit 25fc8bae8f6c5b358b0b554123637ba4097ebaa3[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Feb 28 19:02:41 2023 +0200
+
+    [API] Make all `imgui.type` classes to implement `Comparable<>` interface
+
+[33mcommit 068c1e0faac16a1ecb6a58b890d3de2021880fc5[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Feb 28 11:00:37 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit e9f1b720430d7c3e56c334274868e931e20ef1c1[m
+Author: Kirill Boginsky <76645386+Boginsky@users.noreply.github.com>
+Date:   Tue Feb 28 13:52:23 2023 +0300
+
+    [API] Added inputTextWithHint with ability to use callback (#159)
+    
+    Co-authored-by: kirill-boginskiy <kirill.boginskiy@vizor-games.com>
+
+[33mcommit ae6765ad346cebf7a32f28b61a77f398ae7a6d20[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Feb 8 08:59:44 2023 +0200
+
+    v1.86.7
+
+[33mcommit a1690409c140750d690d81bcaca9015b513c46df[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Feb 7 17:18:23 2023 +0200
+
+    [Build] Tweak `Update Binaries` job
+
+[33mcommit 94aab3201e5311cfe4c347a4c4914fb397a42581[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Feb 7 11:19:11 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 986aa532ff8dd4523c3a84751b156ea86066f9b3[m
+Author: 墨恒 <57742561+moheng233@users.noreply.github.com>
+Date:   Tue Feb 7 19:13:02 2023 +0800
+
+    [API] Added callback binding for InputText (#156)
+    
+    * Added callback binding for InputText
+    
+    * Add JavaDoc
+    
+    * Change
+    
+    * Add Javadoc
+    
+    * Fix Import
+    
+    * Teaks and improvements
+    
+    - Extended example;
+    - Added input text callback ImGuiInputTextFlags#CallbackEdit;
+    - Minor code improvements.
+    
+    ---------
+    
+    Co-authored-by: SpaiR <klimbetoo@gmail.com>
+
+[33mcommit f3c971ca60f2fb922214c28f290e165370233129[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Feb 3 17:18:25 2023 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 667d6108b889e6e4c73cc120786c943d99f42a97[m
+Author: Moulberry <james.jenour@protonmail.com>
+Date:   Sat Feb 4 01:11:47 2023 +0800
+
+    [API] Fix nHasDragDropPayload SIGSEGV when payload doesn't exist (#155)
+    
+    `getDragDropPayload()` functions should simply return null when
+    the payload doesn't exist.
+    
+    Currently, DearImGui will return NULL from `ImGui::GetDragDropPayload()`
+    when the payload does not exist. This causes a null dereference
+    since the nHasDragDropPayload function performs no NULL check
+
+[33mcommit 4f06b4e0de32f06e2d2182f73903370250bc3adf[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Dec 28 09:55:54 2022 +0200
+
+    [Doc] Tweak readme
+
+[33mcommit 0f4df89e2b8c32784d5d4b885c2805e76b8c395b[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Dec 27 13:11:19 2022 +0200
+
+    v1.86.6
+
+[33mcommit 09da8c4aaebb2d262dbc122057e64d23a313136f[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Dec 27 13:08:09 2022 +0200
+
+    [Build] Fix maOS deploy
+
+[33mcommit 533e8dfe12cdd696b82d1182a6be67c15467e73f[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Dec 27 10:37:01 2022 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit e2cfbdcf3f374f539e7901a5781a2ecb99eb601b[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Dec 27 10:50:09 2022 +0200
+
+    [Build] Change comparison for binary libraries
+    
+    Instead of size we will compare hash of the `imgui-binding/src/main` folder.
+
+[33mcommit c71ed6f198263e54f5716875dca315656c5a362d[m
+Author: virusbear <fabianfahrenholz718@gmail.com>
+Date:   Mon Dec 26 11:58:54 2022 +0100
+
+    [API] Add missing ImNodes::EditorContextGetPanning (#152)
+    
+    * Add editorContextGetPanning to ImNodes binding
+    
+    * make editorContextGetPanning call by reference
+    
+    * Fix typo
+
+[33mcommit cb381e9521c5c1ee6d47d9dd5134ade0f24fc23f[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Sun Dec 25 12:21:10 2022 +0200
+
+    [Build] Fix missing windows natives in deployment
+
+[33mcommit 88f98d84ec3620f1ebf84248298a1619cf300d40[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Dec 21 12:03:52 2022 +0200
+
+    [Doc] Tweak readme about release page files
+
+[33mcommit 87b1004674c6488e5ab7c4bd9025f8cc9d97004a[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Mon Dec 19 13:40:05 2022 +0200
+
+    [Build] Fix publish.gradle script
+
+[33mcommit e913e1998270e5e0439cd5b2154478c0ab058f72[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Mon Dec 19 11:41:14 2022 +0200
+
+    [Build] Add gradle cache
+
+[33mcommit d760b2b9ef075ccc6fce9b272d72f7a221baf3e2[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Mon Dec 19 11:36:10 2022 +0200
+
+    [API] Tweak ImString tests
+
+[33mcommit 47baed3b42195ef966a6d864a8cd6490f47c04a9[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Mon Dec 19 11:30:51 2022 +0200
+
+    [API] Add arithmetic ops to ImVec2 and ImVec4
+    
+    - plus
+    - minus
+    - times
+
+[33mcommit a2bacb292e4f19b1783f48f361c92c725e340d6a[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Dec 15 12:36:35 2022 +0200
+
+    [Build] Update artifacts only when needed (#150)
+
+[33mcommit 8356d76a62da95df3770f3deb7b6e64a498c452e[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Dec 14 10:08:23 2022 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 8a560ca4398cf7865c084b1ceec9bdbad9e29f17[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Dec 14 12:01:42 2022 +0200
+
+    [API] Fix dependency tree issue for `imgui-java-app`
+    
+    resolve #75
+    resolve #127
+    
+    Removed shadowing for `imgui-java-app.jar` which is published to Maven Central.
+    Shadow Jar now has a prefix `-all` - for those one who prefer to use raw jars instead dependencies in maven/gradle.
+
+[33mcommit fea86b1de5a70ff54a3ab56e7b4af5a0cae9fa14[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Dec 13 12:58:11 2022 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 23b3f4f1239fff46e9c48259f450729ca5da53da[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Tue Dec 13 14:48:53 2022 +0200
+
+    [Doc] Remove redundant header
+
+[33mcommit 2b5a4851dab7c5a09014487fee7b9546117be1e3[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Dec 12 19:51:43 2022 +0000
+
+    [ci skip] update native binaries
+
+[33mcommit 2957cb4b88b396ac4b3289f6b6c4b681e9ad23b3[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Mon Dec 12 21:45:50 2022 +0200
+
+    [Build] CI refactor (#149)
+    
+    * [Build] CI refactor
+    
+    * [Build] Fix GenerateLibs
+    
+    * [Build] Up actions/checkout@v3
+    
+    * [Build] Remove actions/gradle-build-action
+    
+    * [Build] Uncomment publish/release jobs
+    
+    * [Build] Delete obsolete jobs
+    
+    * [Build] Add more info to the jar manifest
+    
+    * [Build] Make checkout to fetch tags
+    
+    * [Build] Return job to update binaries
+    
+    * [Doc] Update README
+
+[33mcommit 62377c7b1d6a298a7ec4f02dab3a0ddb786ef05a[m
+Author: Aiden Lambert <74067227+theVerySharpFlat@users.noreply.github.com>
+Date:   Thu Nov 24 14:25:23 2022 -0600
+
+    [API] Add callback freeing to ImGuiImplGlfw (#146)
+    
+    Co-authored-by: SpaiR <klimbetoo@gmail.com>
+
+[33mcommit f4214c29dc3eb2d0a254b0dd4bf6ebe6888e8307[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Nov 24 21:55:49 2022 +0200
+
+    [Build] ⬆ freetype v2.12.1
+
+[33mcommit 56165905b361659c6de1f6d4894f71a42583e225[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Nov 24 21:46:47 2022 +0200
+
+    [Doc] Move README back to the root
+
+[33mcommit 8a65518093485d68049479af08aca15007a734d4[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Nov 16 10:01:50 2022 +0000
+
+    [ci skip] Update native binaries
+
+[33mcommit 72e061637ea87b1cc8d03d616eff6abe1e9a8b7c[m
+Author: davfsa <davfsa@gmail.com>
+Date:   Wed Nov 16 11:00:39 2022 +0100
+
+    [API] Fix `calcTextSize` to be used in a static context (#143)
+
+[33mcommit ff9b88ddbbfbd936e55150e3119da4af8eb0edaf[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Aug 18 21:47:18 2022 +0300
+
+    [API] Add convenient methods to ImColor helper
+
+[33mcommit 5abaacfc8798a8e11f595f2bf0b42c8b03e61adb[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Sun May 15 07:31:02 2022 +0000
+
+    [ci skip] Update native binaries
+
+[33mcommit 142e3129719349409ea1fe59c807c954a88b8642[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu May 12 13:15:11 2022 +0300
+
+    [API] Fix invalid setNextPlotFormatY
+    
+    fixes #129
+
+[33mcommit 3a494ba6a3270cebe0b284594f2dbd644f0a033c[m
+Author: David Marinho <davidalmarinho@gmail.com>
+Date:   Thu May 5 21:52:13 2022 +0100
+
+    [Example] Add example of Canvas Editor (#126)
+    
+    * [Example] Add example of Canvas Editor
+    
+    * [Example] Adjust Canvas Editor example (#126)
+    
+    * [Example] Wrap examples to their own window
+    
+    * Tweaks
+    
+    Co-authored-by: SpaiR <klimbetoo@gmail.com>
+
+[33mcommit 5b0e867bfe768b1ae4492335c9d831726d76857d[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Fri Apr 29 17:45:44 2022 +0300
+
+    [Doc] Simplify PR template
+
+[33mcommit c127b46d2752c1eb85f32e32deaf3fef555d036a[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Fri Apr 29 17:44:00 2022 +0300
+
+    [Build] Add `pull_request` CI trigger
+
+[33mcommit cf091adcc989d3be20642c825a754b8b3e08efde[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Sun Apr 17 23:01:56 2022 +0300
+
+    [Doc] Move documentation to docs folder
+
+[33mcommit 3317536d25a31babb9f8e718fa1fe9dd38b657a2[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Sun Apr 17 23:00:51 2022 +0300
+
+    [Build] Gradle v7.4.2
+
+[33mcommit f01a5a573daabe05ede0f18dbdd0605a348b1380[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Sun Apr 17 22:57:06 2022 +0300
+
+    [Build] Tweak build classes
+
+[33mcommit d5d91a896f61ddc93a3c1da02079f885cff53118[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Mar 11 20:59:48 2022 +0000
+
+    v1.86.4
+
+[33mcommit 67b23ddf5fbc2033f544b987e8a473cb2e215800[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Fri Mar 11 22:56:50 2022 +0200
+
+    [Doc] Update README about automatic module names
+
+[33mcommit 3cd0eebfe450a389e47ca26119a91863aa7ad2e0[m
+Author: 한현빈 <41675181+tmvkrpxl0@users.noreply.github.com>
+Date:   Sat Mar 12 05:50:36 2022 +0900
+
+    [Build] Adjust module name depending on deploy type (#122)
+    
+    * Adjust module name depending on deploy type
+    
+    * Update imgui-binding-natives/build.gradle
+    
+    * Update imgui-binding-natives/build.gradle
+    
+    * Update imgui-binding-natives/build.gradle
+    
+    * Update imgui-binding-natives/build.gradle
+    
+    Co-authored-by: SpaiR <klimbetoo@gmail.com>
+
+[33mcommit d04527996b79dd1cb1231f98e17d21e32317a7c7[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Mon Mar 7 12:10:25 2022 +0100
+
+    Support links (#121)
+
+[33mcommit 0b88075279dd72488c6b037dfc950308b413fb75[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 11:44:39 2022 +0000
+
+    v1.86.3
+
+[33mcommit cca6c47d4a07286008fd25ae605169ae0c4e424f[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Thu Mar 3 12:33:21 2022 +0100
+
+    [Doc] Repository documentation (#117)
+
+[33mcommit 47839cfd05368c90884c93771a71214dbac23a9e[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Mar 1 20:11:49 2022 +0000
+
+    [ci skip] Update native binaries
+
+[33mcommit bfbe56c2d5ad61e2d67e7e7eaea25134a7b9dea1[m
+Author: Duncan Calvert <dcalvert@ihmc.us>
+Date:   Tue Mar 1 13:35:09 2022 -0600
+
+    [API] ImPlot Performance Improvement (#115)
+    
+    * Make native array method public to enable use of primitive arrays.
+    
+    * Make public methods for the performance methods that are separate from the native ones.
+    
+    * Finish adding performance methods.
+    
+    * Add finals.
+    
+    * Add final finals.
+
+[33mcommit 57cb0c9e0ab26137f1f532fb2e74bfda303e6e4c[m
+Author: Michał Kalinowski <kalinowskii.michal@gmail.com>
+Date:   Tue Mar 1 20:22:48 2022 +0100
+
+    [API] Update lwjgl from 3.3.0 to 3.3.1 (#116)
+
+[33mcommit a6ca631506234ebd318fb569b4188b3421f0e111[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Feb 2 20:45:09 2022 +0200
+
+    [Build] Add more logs to the release script
+
+[33mcommit 7e8e06a967cb5dbe5bf202d52d38bddb2c18bbe4[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Feb 2 18:29:35 2022 +0000
+
+    v1.86.2
+
+[33mcommit a780cec724a5dfea5b83bf6afaad963b00593c72[m
+Author: SpaiR <klimbetoo@gmail.com>
+Date:   Wed Feb 2 20:27:34 2022 +0200
+
+    [Doc] Change link to the memory editor example
+
+[33mcommit a617235b1c3f28a2a5f7312c6a7ea763d2771b67[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Wed Feb 2 12:44:15 2022 +0000
+
+    [ci skip] Update native binaries
+
+[33mcommit fefac801572b03b330e3003b2280b948a6f4266c[m
+Author: Trevor Flynn <trevorflynn@liquidcrystalstudios.com>
+Date:   Wed Feb 2 02:17:07 2022 -0900
+
+    [API] Memory editor extension (#110)
+    
+    * Working on memory editor bindings for SpaiR/imgui-java#109
+    
+    * Initial working implementation
+    
+    * Add mising entry for imgui_club in .gitmodules
+    
+    * Sorry, fixing readme link type and description for memory editor.
+    
+    * Rename .club package to .memedit
+    
+    * Rename _club.h to _memedit.h
+
+[33mcommit 9a5a1d27576ad1fc7ea2cf13b703b94bde053632[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jan 24 07:15:00 2022 +0000
+
+    v1.86.1
+
+[33mcommit beacd03e908e52b92ac35b45764f6412c90806c7[m
+Author: github-actions <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Mon Jan 24 07:06:08 2022 +0000
+
+    [ci skip] Update native binaries
+
+[33mcommit 8c1ef209ad0b2f671a3a60b4b480aa89804d3574[m
+Author: Trevor Flynn <trevorflynn@liquidcrystalstudios.com>
+Date:   Thu Jan 20 22:34:38 2022 -0900
+
+    [API] Automatic Module Names (#105)
+    
+    * Initial implementation of Automatic Module Names
+    
+    * Fix using java 17 for publishing
+    
+    * Roll build back to jdk 1.8
+    
+    * Fix package name for imgui.lwjgl3 module
+    
+    * Reworking package change to prevent breaking backwards compatability
